@@ -1,4 +1,4 @@
-# Your Package Name
+# db-tracker
 
 A Python library for managing database state snapshots and calculating diffs.
 
