@@ -9,4 +9,4 @@ A Python library for managing database state snapshots and calculating diffs.
 
 ## Installation
 ```bash
-pip install your-package-name
+pip install db-tracker
